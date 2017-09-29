@@ -1,5 +1,11 @@
 public class Alum{
 	public Alum(){
-		//zorrita 
+		//3.1416
+	}
+	public void execute(){
+		///3.1416
+	}
+	public void dosomenthing(){
+		//3.1416
 	}
 }
